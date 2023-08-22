@@ -89,7 +89,15 @@
             "styles": [
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+                "src/assets/dashboard/js/fonts_all.js",
+                "src/assets/dashboard/js/bootstrap_bund.bundle.min.js",
+                "src/assets/dashboard/js/custom_scripts.js",
+                "src/assets/dashboard/js/chart.min.js",
+                "src/assets/dashboard/js/simple_datatables.min.js",
+                "src/assets/dashboard/js/datatables-simple-demo.js",
+                "src/assets/dashboard/js/toastr_script.min.js"
+            ]
           }
         }
       }
